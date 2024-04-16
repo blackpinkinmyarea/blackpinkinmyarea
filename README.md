@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Nguyen Hoang Dung. I am interested in the following topics: Deep Learning in image processing and Computer Vision. Data Science<br>
+My name is Nguyen Hoang Dung. I am interested in the following topics: Deep Learning in image processing and Machine Learning. Data Science, Data Analysis<br>
 ## 📫 How to reach me: 
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/blackpinkinmyarea) 
